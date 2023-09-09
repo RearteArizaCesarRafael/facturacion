@@ -1,0 +1,12 @@
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.csproj.AssemblyReference.cache
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.Presentacion.FrmNuevaFactura.resources
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.Presentacion.FrmPrincipal.resources
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.Properties.Resources.resources
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.csproj.GenerateResource.cache
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.csproj.CoreCompileInputs.cache
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\bin\Debug\AlmacenRafa.exe.config
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\bin\Debug\AlmacenRafa.exe
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\bin\Debug\AlmacenRafa.pdb
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.exe
+C:\Users\rafif\Desktop\facturacion\AlmacenRafa\obj\Debug\AlmacenRafa.pdb
